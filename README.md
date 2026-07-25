@@ -5,7 +5,7 @@ Wild Scents &amp; Wicks
 
 
 ---
-**Last updated:** 2026-07-21
+**Last updated:** 2026-07-25
 
 
 ## Requirements
